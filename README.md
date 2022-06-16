@@ -34,6 +34,8 @@ TABLE FOR DRINKS
           if (err) throw err;
           console.log("Table  created");
       });*/
+      
+      
  /*var sql2="CREATE TABLE client"+
   "(client_id INT not null AUTO_INCREMENT,"+
     "username VARCHAR (255),"+
@@ -43,6 +45,7 @@ TABLE FOR DRINKS
           if (err) throw err;
           console.log("Table  created");
       });*/
+      
 
 /* var sql2="CREATE TABLE cargo"+
   "(cargo_id INT not null AUTO_INCREMENT,"+
@@ -54,6 +57,7 @@ TABLE FOR DRINKS
           if (err) throw err;
           console.log("Table  created");
       });*/
+      
 
 /*var sql2="CREATE TABLE Receipt"+
   "(receipt_id INT not null AUTO_INCREMENT,"+
@@ -66,6 +70,7 @@ TABLE FOR DRINKS
           if (err) throw err;
           console.log("Table  created");
       });*/
+      
       
       2* Second use postman to test the APIS
       3* The folder APIDOCUMENT IT CONTAINS PICS THAT SHOWS POSTMAN RESULT OF TEST AND DOCUMENTATION APIS
